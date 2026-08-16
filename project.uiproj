@@ -1,0 +1,6 @@
+{
+  "Name": "Logmessage_Asset_Test_Crossplatform",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
